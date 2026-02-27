@@ -1,3 +1,4 @@
+Part 1: Deploy Flask and Express on a Single EC2 Instance
 # Flask + Express CI/CD Deployment Project
 
 This project demonstrates:
